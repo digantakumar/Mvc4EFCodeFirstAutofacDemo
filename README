@@ -1,5 +1,5 @@
 The following has been achieved in this project,
 
-1. Architecture has been divided into client, domain and data access projects.
+1. The solution is divided into client, domain and data access projects.
 3. IoC (Autofac) is use to register all data access code with the client.
 4. Entity Framework code first to generate the database from the entities from the Domain project.
