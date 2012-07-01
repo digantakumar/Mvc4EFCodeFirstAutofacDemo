@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="4801F453-1B6A-4573-9672-8DDFAE9AAFE0" ModuleId="Diganta.Website.Tests" />
+  <Module PersistentId="467A9BDF-4315-470F-9865-522B9EAC1C30" ModuleId="Diganta.DataAccess" />
+  <Module PersistentId="A3C295B8-5CFA-4B51-966C-97053F9FF5FB" ModuleId="Diganta.Website" />
+  <Module PersistentId="CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32" ModuleId="Diganta.Domain" />
+</Modules>

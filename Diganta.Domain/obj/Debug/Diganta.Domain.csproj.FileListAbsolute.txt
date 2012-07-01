@@ -1,0 +1,4 @@
+C:\_Projects\JunkProjects\Diganta\Diganta.Domain\bin\Debug\Diganta.Domain.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.Domain\bin\Debug\Diganta.Domain.pdb
+C:\_Projects\JunkProjects\Diganta\Diganta.Domain\obj\Debug\Diganta.Domain.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.Domain\obj\Debug\Diganta.Domain.pdb

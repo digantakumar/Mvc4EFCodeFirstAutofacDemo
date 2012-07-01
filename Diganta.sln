@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diganta.Website", "Diganta.Website\Diganta.Website.csproj", "{A3C295B8-5CFA-4B51-966C-97053F9FF5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diganta.Website.Tests", "Diganta.Website.Tests\Diganta.Website.Tests.csproj", "{4801F453-1B6A-4573-9672-8DDFAE9AAFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diganta.Domain", "Diganta.Domain\Diganta.Domain.csproj", "{CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diganta.DataAccess", "Diganta.DataAccess\Diganta.DataAccess.csproj", "{467A9BDF-4315-470F-9865-522B9EAC1C30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{20C22953-B03A-4729-A7F7-7B4AF1A64860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9E4DE0D2-89FA-44F9-92CF-ACCBF2DAB19D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{3840AB41-41AD-4170-8DF4-9E72BEFDD45B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{EADA9DFB-3D40-4F70-B8DC-AE8A6C3DC56E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccLocalPath0 = .
+		SccLocalPath1 = Diganta.Website.Tests
+		SccLocalPath2 = Diganta.Website
+		SccLocalPath3 = Diganta.Domain
+		SccLocalPath4 = Diganta.DataAccess
+		SccNumberOfProjects = 5
+		SccProjectName1 = Diganta.Website.Tests
+		SccProjectName2 = Diganta.Website
+		SccProjectName3 = Diganta.Domain
+		SccProjectName4 = Diganta.DataAccess
+		SccProjectUniqueName1 = Diganta.Website.Tests\\Diganta.Website.Tests.csproj
+		SccProjectUniqueName2 = Diganta.Website\\Diganta.Website.csproj
+		SccProjectUniqueName3 = Diganta.Domain\\Diganta.Domain.csproj
+		SccProjectUniqueName4 = Diganta.DataAccess\\Diganta.DataAccess.csproj
+		SccTeamFoundationServer = https://digantakumar.tfspreview.com/defaultcollection
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467A9BDF-4315-470F-9865-522B9EAC1C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467A9BDF-4315-470F-9865-522B9EAC1C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467A9BDF-4315-470F-9865-522B9EAC1C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467A9BDF-4315-470F-9865-522B9EAC1C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4801F453-1B6A-4573-9672-8DDFAE9AAFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4801F453-1B6A-4573-9672-8DDFAE9AAFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4801F453-1B6A-4573-9672-8DDFAE9AAFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4801F453-1B6A-4573-9672-8DDFAE9AAFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C295B8-5CFA-4B51-966C-97053F9FF5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C295B8-5CFA-4B51-966C-97053F9FF5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C295B8-5CFA-4B51-966C-97053F9FF5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C295B8-5CFA-4B51-966C-97053F9FF5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{467A9BDF-4315-470F-9865-522B9EAC1C30} = {20C22953-B03A-4729-A7F7-7B4AF1A64860}
+		{4801F453-1B6A-4573-9672-8DDFAE9AAFE0} = {EADA9DFB-3D40-4F70-B8DC-AE8A6C3DC56E}
+		{A3C295B8-5CFA-4B51-966C-97053F9FF5FB} = {3840AB41-41AD-4170-8DF4-9E72BEFDD45B}
+		{CA8A8295-AF8E-4111-95A5-ED6AFAA7EE32} = {9E4DE0D2-89FA-44F9-92CF-ACCBF2DAB19D}
+	EndGlobalSection
+EndGlobal

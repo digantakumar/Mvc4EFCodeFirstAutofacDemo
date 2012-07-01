@@ -1,0 +1,12 @@
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\obj\Debug\Diganta.DataAccess.csprojResolveAssemblyReference.cache
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\Diganta.DataAccess.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\Diganta.DataAccess.pdb
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\Diganta.Domain.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\Diganta.Domain.pdb
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\obj\Debug\Diganta.DataAccess.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\obj\Debug\Diganta.DataAccess.pdb
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\Diganta.DataAccess.dll.config
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\EntityFramework.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\EntityFramework.xml
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\System.Net.Http.dll
+C:\_Projects\JunkProjects\Diganta\Diganta.DataAccess\bin\Debug\System.Net.Http.xml
